@@ -41,6 +41,10 @@
 	<project path="kernel2/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-5.1" />
 	<project path="kernel2/samsung/Ramdisk" name="angelcalibur/Ramdisk" remote="github" revision="slim-5.1" />
 	<project path="kernel2/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
+	<!-- Alucard24 Kernel cm12.1 by me -->
+	<project path="kernel2/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-5.1" />
+	<project path="kernel/samsung/Ramdisk" name="grzmot22/Ramdisk" remote="github" revision="aospv2-5.1" />
+	<project path="kernel2/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
 	<!-- Linaro 4.9.4 -->
 	<project path="kernel1/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
 	<project path="kernel1/arm-eabi-5.2" name="ArchiDroid/Toolchain" remote="github" revision="architoolchain-5.2-arm-linux-gnueabihf" />
