@@ -17,6 +17,7 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  <remote name="bitbucket" fetch="https://bitbucket.org/"/>
 
   <project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
