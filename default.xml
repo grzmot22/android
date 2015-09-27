@@ -57,6 +57,13 @@
 	<project path="aosp2/arm-eabi-5.1" name="arter97/arm-eabi-5.1" remote="github" revision="master" />
 	<project path="aosp2/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
 	<project path="aosp2/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />-->
-	
+	<!-- Hulk-Kernel -->
+	<project path="hulk/samsung/alucard24" name="Tkkg1994/Hulk-Kernel-V2" remote="github" revision="CM12.1" />
+	<project path="hulk/samsung/Ramdisks" name="Tkkg1994/Ramdisks-GT-i9505" remote="github" revision="master" />
+	<project path="hulk/arm-eabi-5.1" name="arter97/arm-eabi-5.1" remote="github" revision="master" />
+	<project path="hulk/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
+	<project path="hulk/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
+	<project path="hulk/arm-eabi-4.9" name="ArchiDroid/Toolchain" remote="github" revision="architoolchain-4.9-arm-linux-gnueabihf-cortex_a15_neon_vfpv4" />
+	<project path="hulk/arm-eabi-5.1-sm" name="ArchiDroid/Toolchain" remote="github" revision="sabermod-5.1-arm-linux-androideabi" />
 </manifest>
 
