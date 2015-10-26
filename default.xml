@@ -63,9 +63,9 @@
 	<project path="hulk/arm-eabi-4.9" name="ArchiDroid/Toolchain" remote="github" revision="architoolchain-4.9-arm-linux-gnueabihf-cortex_a15_neon_vfpv4" />
 	<project path="hulk/arm-eabi-5.1-sm" name="ArchiDroid/Toolchain" remote="github" revision="sabermod-5.1-arm-linux-androideabi" />
 <!-- Alucard24 Kernel aosp 6.0 -->
-	<project path="aosp/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-6.0" />
-	<project path="aosp/samsung/Ramdisk" name="Alucard24/Ramdisk" remote="github" revision="platform-6.0" />
-	<project path="aosp/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
-	<project path="aosp/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
+	<project path="aosp60/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-6.0" />
+	<project path="aosp60/samsung/Ramdisk" name="Alucard24/Ramdisk" remote="github" revision="platform-6.0" />
+	<project path="aosp60/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
+	<project path="aosp60/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
 </manifest>
 
