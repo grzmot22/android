@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-5.1.1_r18" />
+           revision="refs/tags/android-5.1.1_r29" />
 
   <remote  name="github"
            fetch="https://github.com/"
@@ -65,6 +65,7 @@
 <!-- Alucard24 Kernel aosp 6.0 -->
 	<project path="aosp60/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-6.0" />
 	<project path="aosp60/samsung/Ramdisk" name="Alucard24/Ramdisk" remote="github" revision="platform-6.0" />
+	<project path="aosp60/samsung/Ramdisk" name="Alucard24/Ramdiskcm13" remote="github" revision="aospv2-6.0" />
 	<project path="aosp60/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
 	<project path="aosp60/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
 </manifest>
