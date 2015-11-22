@@ -66,6 +66,7 @@
 	<project path="aosp60/samsung/alucard24" name="Alucard24/Alucard-Kernel-jfltexx" remote="github" revision="my-aospv2-6.0" />
 	<project path="aosp60/samsung/Ramdisk" name="Alucard24/Ramdisk" remote="github" revision="platform-6.0" />
 	<project path="aosp60/samsung/Ramdisk-cm13" name="Alucard24/Ramdisk" remote="github" revision="aospv2-6.0" />
+	<project path="aosp60/samsung/Ramdisk-cm13-moje" name="grzmot22/Ramdisk" remote="github" revision="aospv2-6.0" />
 	<project path="aosp60/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master"/>
 	<project path="aosp60/cr-arm-eabi-4.9.4" name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
 </manifest>
